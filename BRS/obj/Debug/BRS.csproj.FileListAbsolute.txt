@@ -1,0 +1,6 @@
+H:\VS_PROJECTS\BRS\BRS\bin\BRS.dll.config
+H:\VS_PROJECTS\BRS\BRS\bin\BRS.dll
+H:\VS_PROJECTS\BRS\BRS\bin\BRS.pdb
+H:\VS_PROJECTS\BRS\BRS\obj\Debug\BRS.csprojResolveAssemblyReference.cache
+H:\VS_PROJECTS\BRS\BRS\obj\Debug\BRS.dll
+H:\VS_PROJECTS\BRS\BRS\obj\Debug\BRS.pdb
